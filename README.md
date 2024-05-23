@@ -1,7 +1,3 @@
-Fantastic choice for a license, especially for a cyberpunk-themed project! The WTFPL (Do What the Fuck You Want to Public License) is as rebellious as it gets. Let's update your `README.md` to include this anarchic license detail:
-
----
-
 # Safe Stremio Web
 
 ## Enter the Cyberpunk Domain of Stremio Streaming
