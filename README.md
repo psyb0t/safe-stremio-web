@@ -1,5 +1,9 @@
 # Safe Stremio Web
 
+[![version](https://raw.githubusercontent.com/psyb0t/safe-stremio-web/badges/version.svg)](https://github.com/psyb0t/safe-stremio-web/releases)
+[![license](https://raw.githubusercontent.com/psyb0t/safe-stremio-web/badges/license.svg)](LICENSE)
+[![Docker Pulls](https://img.shields.io/docker/pulls/psyb0t/safe-stremio-web?style=flat-square)](https://hub.docker.com/r/psyb0t/safe-stremio-web)
+
 ## Enter the Cyberpunk Domain of Stremio Streaming
 
 **Safe Stremio Web** is not just any Docker setup—it's the UI fortress for accessing the Stremio service. Cloaked behind nginx, this container acts as your cyber gateway to endless streaming possibilities. Here's how to bring this rebel base online.
