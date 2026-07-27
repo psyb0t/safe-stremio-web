@@ -1,7 +1,7 @@
-FROM alpine:3.20
+FROM alpine:3.22
 
 # Define the build argument for the Stremio version
-ARG STREMIO_VERSION=v5.0.0-beta.8
+ARG STREMIO_VERSION=v5.0.0-beta.38
 
 # Install dependencies
 RUN apk update && \
