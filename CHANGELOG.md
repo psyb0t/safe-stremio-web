@@ -2,6 +2,19 @@
 
 All notable changes per release. Versions follow [semver](https://semver.org).
 
+## v0.1.4 — 2026-08-01
+
+Documentation only — the image and what it serves are unchanged.
+
+- The repo now ships a `docker-compose.yml` quick start. Until now it contained
+  no compose file at all, so anyone cloning it had to retype the example out of
+  the README before they could bring the service up.
+- The file matches the README example: it pulls `psyb0t/safe-stremio-web:latest`,
+  maps host port 8080 to port 80 in the container, and restarts always.
+- The `USERNAME` and `PASSWORD` values in it are placeholders. Change them
+  before exposing the service to anything, or the basic auth in front of the UI
+  is worth nothing.
+
 ## v0.1.3 — 2026-08-01
 
 Infrastructure only — the image and what it serves are unchanged.
